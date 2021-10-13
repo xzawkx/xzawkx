@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xzawkx
+- 👀 I’m interested in automation and video games
+- 🌱 I’m currently learning data and machine learning
